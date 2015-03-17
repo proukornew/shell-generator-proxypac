@@ -1,0 +1,1 @@
+Script for generating proxy.pac file with banned ip's by Russian Registry
